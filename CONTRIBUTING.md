@@ -1,4 +1,3 @@
-
 # Contribution Guidelines
 
 * __NSFW images aren't allowed due to [Github Site Policy](https://docs.github.com/en/site-policy);__
